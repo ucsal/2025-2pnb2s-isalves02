@@ -4,7 +4,7 @@ public class Tax {
     private double tax;
 
     public Tax () {
-        this.tax = 0.10;
+        this.tax = 0.08;
     }
 
     public double getTax() {
